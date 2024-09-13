@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/MAGICAL-KX?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MAGICAL-KX?label=Followers&style=social"></a>
-<a href="https://github.com/MAGICAAL-KX/Dagger-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MAGICAL-KX/HIRO-BUG-BOTS?&style=social"></a>
-<a href="https://github.com/MAGICAL-KX/Dagger-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MAGICAL-KX/HIRO-BUG-BOTS?style=social"></a>
-<a href="https://github.com/MAGICAL-KX/Dagger-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MAGICAL-KX/HIRO-BUG-BOTS?label=Watching&style=social"></a>
+<a href="https://github.com/MAGICAAL-KX/HIRO-BUG-BOTS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MAGICAL-KX/HIRO-BUG-BOTS?&style=social"></a>
+<a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MAGICAL-KX/HIRO-BUG-BOTS?style=social"></a>
+<a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MAGICAL-KX/HIRO-BUG-BOTS?label=Watching&style=social"></a>
 </p>
 </a>
 </p>  
@@ -67,11 +67,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * [WhiskeySockets](https://github.com/WhiskeySockets)
 
-* [IBRAHIMj](https://github.com/Infixll)
+* [IBRAHIM](https://github.com/Infixll)
 
 * [ME](https://github.com/MAGICAL-KX)
 
 ## Contact Me
   
-* [Telegram](@Kenton x)
+* [YOU-TUBE](@KentonX-Tech)
 * [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+263789432940)
