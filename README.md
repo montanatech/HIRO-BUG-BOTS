@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
 </p>
-<a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp><a> <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp"></a>
+                    <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp><a> <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/MAGICAL-KX?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MAGICAL-KX?label=Followers&style=social"></a>
