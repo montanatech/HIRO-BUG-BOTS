@@ -1,127 +1,77 @@
-# HIRO-BUG-BOTS
-<h1 align="center"> HIRO BUG BOT </h1>
-<p align="center">  
-  
-***
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Ops+One&size=50&pause=1000&color=yellow&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;HIRO-BUG-BOTS;WHATSAPP+BUG+BOT;CREATED+BY+MAGICAL+KX;RELEASED+05.08.24" alt="Typing SVG" /></a>
-  </p>
+<h1 align="center"> This base was created by MAGICAL KX </h1>
 
-  <p align="center">  
-  <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg">
-    <h1 align="center">HIRO-BUG-BOTS</h1>
-  </a>
-</p>
 <p align="center">
-<a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-red?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-green?style=for-the-badge&logo=whatsapp"></a><a href="https://t.me/Kenton X"><img title="Author" src="https://img.shields.io/badge/t.me-blue?style=for-the-badge&logo=telegram"></a>
+<img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
+</p>
 
-   
-   
+<p align="center">
+<a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/MAGICAL-KX?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MAGICAL-KX?label=Followers&style=social"></a>
+<a href="https://github.com/MAGICAAL-KX/Dagger-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MAGICAL-KX/HIRO-BUG-BOTS?&style=social"></a>
+<a href="https://github.com/MAGICAL-KX/Dagger-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MAGICAL-KX/HIRO-BUG-BOTS?style=social"></a>
+<a href="https://github.com/MAGICAL-KX/Dagger-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MAGICAL-KX/HIRO-BUG-BOTS?label=Watching&style=social"></a>
+</p>
+</a>
+</p>  
+<h2 align="center">Guide For Those Of You Who Use Termux</h2>
 
-HIRO BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+## Install Several Packages And Run Bots
 
-If you clone my repo or use as base bot, dont forget to give credits. KENTON BOTS OFFICIAL
-### 1. FORK THIS REPO
+```csharp
+> git clone https://github.com/MAGICAL-KX/HIRO-BUG-BOTS
+> apt-get update -y
+> apt-get upgrade -y
+> apt-get install -y git
+> sh wibu.sh
+````
 
-<a href='https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-BLUE?style=for-the-badge&logo=git&logoColor=white'/></a>
-   
+<h2 align="center">Guide For Panel Users</h2>
 
+## 🖥 Go to panel and upload this Sc.
 
- **2.DEPLOYMENT PROCESS**
-### DEPLOY ON PANEL
-IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
-    <br>
-    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-BLACK?style=for-the-badge&logo=panel&logoColor=white'/></a>
+ 📝 After that, extract or move it to a directory (container).
 
-### OR
-### 1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
+ ⌨ Use the following code to move into a container: "../"
 
-## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
+ 🖨 Then go to the console and press Start, and you will get a Qr code that will be linked to WhatsApp
 
-### DEPLOYMENT ON TERMUX
+<h2 align="center">Features</h2>
 
-**Go to your termux and input this commands**
+## How to deploy to heroku
 
-
-
-
-
-cd PREXZY-BUG-BOT
-
-yarn install
-   
-npm start
-
-
-If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
-
-If you see any question while upgrading with this options with Y or n for default, = Click n for Default
-
-
-
- It will ask you for your number type it with country code +
- It will give you a pair code go and link it to your WhatsApp 
- After linking
- Bot Connected ⚡
- Enjoy🤖
-
-### REPORT ISSUES
-
-atp update
-   
-
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
- pkg install git
-
- pkg install nodejs
-
-pkg install ffmpeg
-
-pkg install wget
-
-pkg install imagemagick
-
- pkg install yarn
-
-termux-setup-storage
-
-git clone https://github.com/MAGICAL/HIRO-BUG-BOTS
-
- cd HIRO-BUG-BOT
- 
- yarn install
- 
- npm start
-
-`Please HIRO BUG BOT is for scammers only. Don't use it to harm innocent people`
+```csharp
+🦠| .You need to scan and get session using pair code
+🦠| .Upload session to { Daggerses }
+🦠| .Go to [Heroku](heroku.com) Login 
+🦠| .Create a new app
+🦠| .Add the Build packs Below 
+🦠| .👇👇
+```
+# Instalasi
+* [`Pair code`](https://spider-classic-pairing.onrender.com)
+* [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
+## Heroku Buildpack
+```bash
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
 
-## Contributions
-
-Contributions to HIRO BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
-
-   thanks to these people ;
-
-   **** who made the base bot
-
-   **MAGICAL KX** For developing it; <br>
 
 
-## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+## Special Thanks to
 
-Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
+* [WhiskeySockets](https://github.com/WhiskeySockets)
 
-## Developers:
+* [IBRAHIMj](https://github.com/Infixll)
 
--MAGICAL KX
+* [ME](https://github.com/MAGICAL-KX)
 
+## Contact Me
+  
+* [Telegram](@Kenton x)
+* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+263789432940)
