@@ -73,5 +73,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [ME](https://github.com/MAGICAL-KX)
 
 ## Contact Me
-  
+</p>
+</p align="center">
 <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp><a>
