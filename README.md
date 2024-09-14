@@ -20,7 +20,41 @@
   <a href="https://github.com/MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
 
+<p align="center">
+<a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&style=flat-square&color=blue" />
+</p>
+</p>
+
+<p align="center">
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMAGICAL-KX%2FWhatsAppBot-MD.svg?type=small"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MAGICAL-KX"><img title="Developer" src="https://img.shields.io/badge/Author-MAGICAL%20KX-blue.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<br><br><br>
+<p align="center">
+  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/MAGICAL-KX/PublicBot/main/wlogo.svg.png" width="600"></a>
+</p>
+<br><br>
+<p align="center">
+  <a href="https://www.youtube.com/c/Kentonx-tech"><img title="Youtube Videos" src="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
+</p>
+
+<br><br>
+
+
+
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
 
 
 <h1 align="center"> HIRO BUGS BY MAGICAL-KX AND KING IBRAHIM </h1>
