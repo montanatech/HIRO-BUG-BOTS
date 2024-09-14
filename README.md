@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/MAGICAL-KX"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://www.youtube.com/c/KentonX-Tech"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p>
