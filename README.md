@@ -67,23 +67,6 @@
 <div align="center">
 <strong>H I R O BUG－ＭＤ</strong>
 </p>
-  <p align="center">
-  <a href="https://github.com/MAGICAL-KX"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
-
-<p align="center">
-<a href="https://www.youtube.com/KentonX-Tech"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HIRO-BUG-BOTS&label=VIEWS&style=flat-square&color=blue" />
-</p>
-</p>
-
-<p align="center">
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS?ref=badge_medium" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS.svg?type=medium"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MAGICAL-KX"><img title="Developer" src="https://img.shields.io/badge/Author-MAGICAL%20KX-blue.svg?style=for-the-badge&logo=github" /></a>
-</p>
 <br><br><br>
 <p align="center">
   <a href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy"><img title="Join Whatsapp Group" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp" width="600"></a>
