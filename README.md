@@ -65,6 +65,14 @@
 </p>  
 <h2 align="center">Guide For Those Of You Who Use Termux</h2>
 
+| Version              | Status                | Description                                                                    | 
+| -------------------- | --------------------- | ------------------------------------------------------------------------------ |
+| <a href="https://github.com/kalanakt/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ DOWNLOAD MUSIC                                            |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ Upload all ytdl links, direct links, google drive etc. (Speed is much higher than version 0) |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔             | ☑ custom thumbnail support, fixed youtube download                              |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ fixed Bugs in this bot, Modify custom thumbnail support                          | 
+<br>
+
 ## Install Several Packages And Run Bots
 
 ```csharp
@@ -138,15 +146,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
-| Version              | Status                | Description                                                                    | 
-| -------------------- | --------------------- | ------------------------------------------------------------------------------ |
-| <a href="https://github.com/kalanakt/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ DOWNLOAD MUSIC                                            |
-| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ Upload all ytdl links, direct links, google drive etc. (Speed is much higher than version 0) |
-| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔             | ☑ custom thumbnail support, fixed youtube download                              |
-| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✔                | ☑ fixed Bugs in this bot, Modify custom thumbnail support                          | 
-<br>
-
-
 
 ## Special Thanks to
 
@@ -160,3 +159,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 </p>
 </p align="center">
 <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp><a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MAGICAL-KX/HIRO-BUG-BOTS&type=Date)](https://star-history.com/#MAGICAL-KX/HIRO-BUG-BOTS&Date)
+
