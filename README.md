@@ -208,11 +208,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"></a>
 
 </p>
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
+</p align="center">
+    Apache License
+   Version 2.0, January 2004
+   http://www.apache.org/licenses/></a>
+</p>
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
