@@ -57,7 +57,7 @@
 </p>
 
 
-<h1 align="center"> HIRO BUGS BY MAGICAL-KX AND KING IBRAHIM </h1>
+<h1 align="center"> HIRO BUGS BY MAGICAL-KX AND KING-IBRAHIM </h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
