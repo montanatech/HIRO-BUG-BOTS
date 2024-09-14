@@ -59,6 +59,37 @@ heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
+## `Authors`
+
+<div align="center">
+  
+| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
+|----|
+| [ MAGICAL-KX ](https://github.com/MAGICAL-KX) |
+|  Owner, Developer, Bug Fixer, Maintainer, updates |
+
+<br>
+  
+| [![IBRAHIM](https://github.com/Finixll.png?lenght=50width=50)](https://github.com/MAGICAL-KX) |
+|----|
+| [ Ibrahim ](https://github.com/Finixllr) |
+|  Co.Owner , Bug Fixer, |
+
+  </div>
+  
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Join our chats" href="https://wa.me/263789432940?text=Hi!! Ano Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+**Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ano">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
 
 
 
