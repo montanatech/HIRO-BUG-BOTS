@@ -25,7 +25,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/alien-MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/maintained-no-red.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/maintained-no-red.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/c/KentonX-Tech"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=HIRO-BUGS&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p>
 
