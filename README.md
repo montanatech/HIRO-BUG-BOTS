@@ -70,7 +70,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/MAGICAL-KX/BUGBOT/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/MAGICAL-KX/BUGBOT/main/logo=whatsapp" width="600"></a>
 </p>
 <br><br>
 <p align="center">
