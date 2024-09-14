@@ -33,7 +33,6 @@
 <p align="center">
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMAGICAL-KX%2FWhatsAppBot-MD.svg?type=small"/></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/MAGICAL-KX"><img title="Developer" src="https://img.shields.io/badge/Author-MAGICAL%20KX-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
@@ -45,15 +44,15 @@
 <p align="center">
   <a href="https://www.youtube.com/c/Kentonx-tech"><img title="Youtube Videos" src="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
-
 <br><br>
-
-
-
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+<strong>H I R O BUG－ＭＤ</strong>
 </p>
 
 
