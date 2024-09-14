@@ -97,7 +97,7 @@
 🦠| .Add the Build packs Below 
 🦠| .👇👇
 ```
-# Instalasi
+## SESSION ID AND HEROKU
 * [`Pair code`](https://spider-classic-pairing.onrender.com)
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
 ## Heroku Buildpack
@@ -138,7 +138,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
-
+| Version              | Status                | Description                                                                    | 
+| -------------------- | --------------------- | ------------------------------------------------------------------------------ |
+| <a href="https://github.com/kalanakt/HIRO-BUG-BOTS/releases/tag/v1.0.0">v1.0.0</a>             | ✘                | ☑ DOWNLOAD MUSIC                                            |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v2.0.0">v2.0.0</a>             | ✔                | ☑ Upload all ytdl links, direct links, google drive etc. (Speed is much higher than version 0) |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v2.0.1">v2.0.1</a>             | ✘                | ☑ custom thumbnail support, fixed youtube download                              |
+| <a href="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/releases/tag/v2.0.2">v2.0.2</a>             | ✔                | ☑ fixed Bugs in this bot, Modify custom thumbnail support                          | 
+<br>
 
 
 
