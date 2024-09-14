@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="160" width="100%">
 
 <h1 align="center"> HIRO-BUGS </h1>
 </p>
@@ -86,7 +86,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy"><img title="Join Whatsapp Group" src="https://img.shields.io/nadge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp" width="600"></a>
+  <a href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy"><img title="Join Whatsapp Group" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp" width="600"></a>
 </p>
 <br><br>
 <p align="center">
