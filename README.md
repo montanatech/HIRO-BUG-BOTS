@@ -51,6 +51,37 @@
 <div align="center">
 <strong>H I R O BUG－ＭＤ</strong>
 </p>
+  <p align="center">
+  <a href="https://github.com/MAGICAL-KX"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/KentonX-Tech"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HIRO-BUG-BOTS&label=VIEWS&style=flat-square&color=blue" />
+</p>
+</p>
+
+<p align="center">
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS?ref=badge_medium" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS.svg?type=medium"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MAGICAL-KX"><img title="Developer" src="https://img.shields.io/badge/Author-MAGICAL%20KX-blue.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<br><br><br>
+<p align="center">
+  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/MAGICAL-KX/BUGBOT/main/wlogo.svg.png" width="600"></a>
+</p>
+<br><br>
+<p align="center">
+  <a href="https://www.youtube.com/KentonX-Tech"><img title="Youtube Videos" src="https://github.com/MAGICAL-KX/HIRO-BUG-BOTS/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
+</p>
+
+<br><br>
+
+
+
+</p>
 
 
 <h1 align="center"> HIRO BUGS BY MAGICAL-KX AND KING-IBRAHIM </h1>
