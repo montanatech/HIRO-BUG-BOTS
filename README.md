@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS.svg?type=small"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMAGICAL-KX%2FHIRO-BUG-BOTS?ref=badge_small" alt="FOSSA Status"><img src="https://github.com/MAGICAL-KX%2FHIRO-BUG-BOTS.svg?type=small"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/MAGICAL-KX"><img title="Developer" src="https://img.shields.io/badge/Author-MAGICAL%20KX-blue.svg?style=for-the-badge&logo=github" /></a>
