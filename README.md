@@ -202,10 +202,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## Star History
 </p>
-[![Star History Chart](https://api.star-history.com/svg?repos=MAGICAL-KX/HIRO-BUG-BOTS&type=Date)](https://star-history.com/#MAGICAL-KX/HIRO-BUG-BOTS&Date)></a> <a
+[![Star History Chart](https://api.star-history.com/svg?repos=MAGICAL-KX/HIRO-BUG-BOTS&type=Date)](https://star-history.com/#MAGICAL-KX/HIRO-BUG-BOTS&Date)></a> 
                                                                                                                                 
 </p>                                                                                                                              
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"></a>
 
 </p>
 
