@@ -1,4 +1,31 @@
+<!--
+
+
+
+<p align="center">
+  <a href="https://github.com/MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+ -->
+
+
+<p align="left">
+  <a href="https://github.com/alien-MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/maintained-no-red.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+<br>
+<p align="left">
+  <a href="https://github.com/MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/current%20Status-running%20with%20bugs!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+<br>
+<p align="left">
+  <a href="https://github.com/MAGICAL-KX"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+
+
+
 <h1 align="center"> HIRO BUGS BY MAGICAL-KX AND KING IBRAHIM </h1>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;HIRO-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+MAGICAL+KX;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
