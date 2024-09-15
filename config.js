@@ -22,15 +22,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti 
-global.sessionName = 'spidersession'
+global.prefix = ['','!','.',',','🐤','🗿']
+global.owner = ['263789432940']
+global.ownMain = '263789432940'
+global.NamaOwner = 'MAGICAL KX' //gausah diganti 
+global.sessionName = 'KXsession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕4' //ganti aj klo mau
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //ganti aj klo mau
-global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
+global.namabot = 'BUG-𝐕4' //ganti aj klo mau
+global.author = 'MAGICAL-KX' //ganti aj klo mau
+global.packname = 'MR BUGGER' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
 
 //===========================//
@@ -46,9 +46,9 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  
 //===========================//
 
-global.country = `254`
+global.country = `263`
 global.system = {
-gmail: `samuelcircute@gmail.com`,
+gmail: `xkenton0@gmail.com`,
 }
 
 //===========================//
@@ -146,12 +146,12 @@ else return emot[results[0][0]]
 global.mess = { // bagian ini gausah diganti 
 ingroup: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚘𝚗 𝚐𝚛𝚘𝚞𝚙𝚜💢',
 admin: `❗𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 😝`,
-owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`𝕶𝖎𝖓𝖌 𝕾𝖆𝖒\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
+owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`MKX\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
 premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🐦',
 seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳𝚎𝚖𝚘𝚗 𝚂𝚙𝚒𝚍𝚎𝚛🗿🚬',
+succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳𝚎𝚖𝚘𝚗 HIRO🗿🚬',
 bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
 }
 
