@@ -12,7 +12,7 @@ module.exports = {
                             title: "",
                         },
                         body: {
-                            text: "🔥⃟༑𝐂𝐎𝐒𝐓𝐒༑⃟🧐⃟ ⟩ 𝐛𝐲 𝐳𝐞𝐭𝐬𝐮𝐛𝐨𝐱𝐲𝐠𝐞𝐧 ☆ >"
+                            text: "🔥⃟༑𝐂𝐎𝐒𝐓𝐒༑⃟🧐⃟ ⟩ 𝐛𝐲 MAGICAL KX☆ >"
                         },
                         footer: {
                             text: "https://lol.zetsuboxygen.ml/costs"
