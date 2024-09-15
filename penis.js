@@ -11,7 +11,7 @@ viewOnceMessage: {
 message: {
 interactiveMessage: {
 "header": {
-"title": "𝗗𝗘𝗩𝗜𝗟 𝗦𝗣𝗜𝗗𝗘𝗥━𝗩4",
+"title": "HIRO-BUGS━𝗩1",
 ...(await prepareWAMessageMedia({ document: overlaid, pageCount: 9999999, fileLength: 99999999999999, mimetype: 'image/png', jpegThumbnail: await resize(fs.readFileSync(`./media/overlaid.jpg`), 400, 400) }, { upload: ryozingod.waUploadToServer })),
 "hasMediaAttachment": true
 },
@@ -19,14 +19,14 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "*# 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 𝖁𝖆𝖚𝖑𝖙 - 2k24*"
+"text": "*# MAGICAL KX - 2k24*"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "single_select",
 "buttonParamsJson": `{
-"title": "🕸️𝕾𝖊𝖊 𝖆𝖑𝖑 𝕾𝖕𝖎𝖉𝖊𝖗 𝕸𝖊𝖓𝖚 🕷️",
+"title": "🕸️𝕾𝖊𝖊 𝖆𝖑𝖑  𝕸𝖊𝖓𝖚 🕷️",
 "sections": [
 {
 "title": "💧 𝕮𝖍𝖔𝖔𝖘𝖊 𝕺𝖓𝖊 🙃",
@@ -34,17 +34,17 @@ interactiveMessage: {
 "rows": [
 {
 "header": "[ ❇️ ] • ALL CMD",
-"title": "𝖆𝖑𝖑 𝕾𝖕𝖎𝖉𝖊𝖗 𝖈𝖔𝖒𝖒𝖆𝖓𝖉𝖘 🕷️",
+"title": "𝖆𝖑𝖑  𝖈𝖔𝖒𝖒𝖆𝖓𝖉𝖘 🕷️",
 "id": ".allmenu"
 },
 {
-"header": "👤 - CONTACT 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒",
+"header": "👤 - CONTACT MAGICAL KX",
 "title": "❗Displays Owner Number",
 "id": ".owner"
 },
 {
 "header": "🖥️ - Bot Info",
-"title": "❗𝕯𝖎𝖘𝖕𝖑𝖆𝖞  𝖆𝖑𝖑 𝖘𝖕𝖎𝖉𝖊𝖗 𝕴𝖓𝖋𝖔",
+"title": "❗𝕯𝖎𝖘𝖕𝖑𝖆𝖞  𝖆𝖑𝖑 𝖘 𝕴𝖓𝖋𝖔",
 "id": ".botstatus"
 }
 ]
