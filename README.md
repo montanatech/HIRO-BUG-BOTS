@@ -210,11 +210,12 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 </p>
 </p align="center">
     Apache License
-   Version 2.0, January 2004
-   http://www.apache.org/licenses/></a>
+       Version 2.0, January 2004
+           http://www.apache.org/licenses/></a>
+   
 </p>
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+<details close>
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
