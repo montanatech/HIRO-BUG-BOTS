@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="160" width="100%">
-<h1 align="center"> M A G I C A L  KX </h1>
+<h1 align="center"> M A G I C A L  K X </h1>
 <h1 align="center"> B U G  B O T S </h1>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
