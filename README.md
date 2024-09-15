@@ -1,3 +1,5 @@
+##### MAGICAL KX
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="160" width="100%">
 
 <h1 align="center"> HIRO-BUGS </h1>
@@ -6,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@KentonX-tech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg"> 
+    <img alt=Support height="350" src="https://th.bing.com/th/id/OIP.R65tyCWMrWWn5yKi6BUJzQHaHa?pid=ImgDet&w=183&h=183&c=7.jpg"> 
     </p>
     <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <p align="center">
