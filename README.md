@@ -90,7 +90,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;HIRO-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+MAGICAL+KX;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 <p align="center">
-<img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
+<img src="[https://i.ytimg.com/vi/ep2-W1X65KI/maxresdefault.jpg]" width="360" height="360"/>
 </p>
 <p align="center">
 <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/MAGICAL-KX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263789432940"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp><a> <a href="https://github.com/MAGICAL-KX"><img title="Author" src="https://img.shields.io/badge/HIRO-BUG-BOTS?style=for-the-badge&logo=whatsapp"></a>
