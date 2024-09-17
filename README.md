@@ -147,6 +147,7 @@
 ```
 ## SESSION ID AND HEROKU
 * [`Pair code`](https://spider-classic-pairing.onrender.com)
+* * [`Pair code 2`](https://kenton-x.onrender.com)
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
 ## Heroku Buildpack
 ```bash
